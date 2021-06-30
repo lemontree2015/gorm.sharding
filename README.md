@@ -1,5 +1,5 @@
 # gorm.sharding
-没找到golang gorm的分库分表组件，自己写了个供参考。
+没找到golang gorm合适的分库分表组件，自己写了个供参考。
 
 # 用到的组件
 -  [Snowflake](https://github.com/bwmarrin/snowflake) (雪花算法生成唯一ID)
